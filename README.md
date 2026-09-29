@@ -1,1 +1,1 @@
-# toeic-go
+weekly‑board
